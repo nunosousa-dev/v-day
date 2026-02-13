@@ -2,11 +2,11 @@ const gifStages = [
     "https://media.tenor.com/36d8ovZxZsgAAAAj/bubu-bubu-dudu.gif",    // 0 normal
     "https://media.tenor.com/21Rpgv7I-jMAAAAi/bubu-dudu-sseeyall.gif",  // 1 confused
     "https://media.tenor.com/EKrsFntSuSgAAAAi/sad.gif",             // 2 pleading
-    "https://media.tenor.com/OGY9zdREsVAAAAAj/somsom1012.gif",             // 3 sad
-    "https://media1.tenor.com/m/WGfra-Y_Ke0AAAAd/chiikawa-sad.gif",       // 4 sadder
-    "https://media.tenor.com/CivArbX7NzQAAAAj/somsom1012.gif",             // 5 devastated
-    "https://media.tenor.com/5_tv1HquZlcAAAAj/chiikawa.gif",               // 6 very devastated
-    "https://media1.tenor.com/m/uDugCXK4vI4AAAAC/chiikawa-hachiware.gif"  // 7 crying runaway
+    "https://media.tenor.com/I0A4JG4CK4kAAAAi/bubu-dudu.gif",             // 3 sad
+    "https://media.tenor.com/yhOYoFN_WAkAAAAi/amor.gif",       // 4 sadder
+    "https://media.tenor.com/8DofRIfWaSIAAAAi/tkthao219-bubududu.gif",             // 5 devastated
+    "https://media.tenor.com/7vawrXPSJvsAAAAi/bubu-fun-dudu-bubu-cute.gif",               // 6 very devastated
+    "https://media.tenor.com/7vawrXPSJvsAAAAi/bubu-fun-dudu-bubu-cute.gif"  // 7 crying runaway
 ]
 
 const noMessages = [
